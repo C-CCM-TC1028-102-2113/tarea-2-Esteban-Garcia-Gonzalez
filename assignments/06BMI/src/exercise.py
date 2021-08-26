@@ -15,7 +15,7 @@ def main():
         elif(imc>=40):
             print('OBESIDAD MORBIDA')
     else:
-        print('Revisa tus datos, alguno de ellos es erróneo')
+        print('Revisa tus datos, alguno de ellos es erróneo.')
     pass
 if __name__=='__main__':
     main()
